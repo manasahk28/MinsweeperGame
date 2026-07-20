@@ -1,0 +1,6 @@
+{
+  "name": "Minesweeper",
+  "description": "A minimalist, responsive Minesweeper game featuring adjustable difficulties, flags, an interactive timer, high-score tracking, and pastel aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
